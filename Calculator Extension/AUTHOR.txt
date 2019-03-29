@@ -1,0 +1,5 @@
+AUTHOR 		:	Sneh Desai.
+DATE		:	29/03/2019.
+DESCRIPTION	:	This is an Calculator extension that is used to perform the basic math operation
+			so that you need not open the calculator application on your PC or phones. This
+			would help you save lots of precious time.
